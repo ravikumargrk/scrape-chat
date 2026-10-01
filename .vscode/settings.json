@@ -1,0 +1,26 @@
+{
+    "workbench.colorTheme": "Dark Modern",
+
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.5,
+
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "window.commandCenter": false,
+
+    "editor.lineNumbers": "relative",
+    "editor.cursorBlinking": "solid",
+
+    //"workbench.activityBar.location": "left",
+    "workbench.statusBar.visible": true,
+
+    "workbench.editor.showTabs": "multiple",
+    "workbench.editor.tabSizing": "shrink",
+
+    "explorer.compactFolders": false,
+    
+}

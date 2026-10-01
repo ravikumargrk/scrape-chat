@@ -1,0 +1,7 @@
+jupyter
+jupyter_client
+ipykernel
+playwright
+dotenv
+langchain-core
+
